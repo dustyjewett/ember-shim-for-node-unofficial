@@ -1,5 +1,5 @@
 {
-  "name": "ember-shim-for-node-unofficial",
+  "name": "ember",
   "version": "1.0.0",
   "description": "A simple package that exports the latest 'release' version of ember",
   "scripts": {
