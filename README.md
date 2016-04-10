@@ -2,4 +2,12 @@
 
 A simple hack to pull in the bower release and export it.
 
-If you're using Ember-browser compatible code, you'll want to rename the package as 'ember', so import Ember from 'ember' works as expected.
+## Install
+
+    npm install git@github.com:dustyjewett/ember-shim-for-node-unofficial.git
+    
+## Usage
+
+Ember is not available to import into node! You can write standard node with require('ember').
+
+OR, even better, run your existing ember code with Babel es2015.  See: _
