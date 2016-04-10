@@ -1,0 +1,21 @@
+{
+  "name": "ember-shim-for-node-unofficial",
+  "description": "",
+  "main": "./node_modules/dist/ember.debug.cjs.js",
+  "authors": [
+    "Dusty Jewett <dusty.jewett@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "release"
+  }
+}

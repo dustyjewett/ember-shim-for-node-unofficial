@@ -1,0 +1,14 @@
+{
+  "name": "ember-shim-for-node-unofficial",
+  "version": "1.0.0",
+  "description": "A simple package that exports the latest 'release' version of ember",
+  "scripts": {
+    "install": "bower install"
+  },
+  "main": "./bower_components/ember/ember.debug.cjs.js",
+  "author": "Dusty Jewett (dusty.jewett@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
+}
