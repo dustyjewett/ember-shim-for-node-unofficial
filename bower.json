@@ -16,6 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "ember": "release"
+    "ember": "lts-2-4"
   }
 }
