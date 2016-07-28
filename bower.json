@@ -16,6 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "ember": "release"
+    "ember": "https://github.com/PatentNavigation/ember/archive/2.6.2-cjs.zip"
   }
 }
